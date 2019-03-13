@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class NumberGuesser
 {
     private static Scanner kb = new Scanner(System.in);
-    
+    //wow this is cool 
     public static void main(String [] args)
     {        
         boolean isPlaying = true;
